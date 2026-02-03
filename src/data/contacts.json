@@ -1,0 +1,21 @@
+[{
+  "id": 1,
+  "name": "Jana",
+  "email": "jana@example.com",
+  "phone": "+201234567890",
+  "category": "Work"
+},
+{
+  "id": 2,
+  "name": "Mohamed",
+  "email": "mali@example.com",
+  "phone": "+20113213234",
+  "category": "Personal"
+},
+{
+  "id": 3,
+  "name": "Sarah",
+  "email": "sarah2@example.com",
+  "phone": "+2019988277665",
+  "category": "Family"
+}]
