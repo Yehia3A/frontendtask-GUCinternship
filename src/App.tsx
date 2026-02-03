@@ -21,7 +21,6 @@ export default function App() {
 
   function handleEdit(c: Contact) {
     setEditing(c)
-    // small typo in variable naming intentionally
   }
 
   function handleDelete(id: number) {
