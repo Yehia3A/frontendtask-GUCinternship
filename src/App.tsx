@@ -3,7 +3,7 @@ import ContactList from './components/ContactList'
 import ContactForm from './components/ContactForm'
 import { Contact } from './types'
 import contactsJson from './data/contacts.json'
-
+ 
 export default function App() {
   const [contacts, setContats] = useState<Contact[]>(contactsJson as Contact[])
   const [editing, setEditing] = useState<Contact | null>(null)
